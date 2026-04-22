@@ -98,9 +98,13 @@ Recepción de datos: Terminal de la Raspberry Pi ejecutando mosquitto_sub -h loc
 ##
 
 Desarrollado por: 
+   
    -Kendra Lizeth Torres Gomez
+  
    -Angelica 
+  
    -Mario David Fabela Flores
+
 Institución: Escuela Superior de Cómputo (ESCOM - IPN)
 
 Materia: Internet de las cosas/Embedded Systems 6CM3 26-1
