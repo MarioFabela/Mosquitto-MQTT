@@ -1,0 +1,10 @@
+# Archivos temporales de Arduino
+/build/
+/libraries/
+*.bin
+*.elf
+*.hex
+
+# Archivos de configuración local
+.DS_Store
+Thumbs.db
